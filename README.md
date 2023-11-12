@@ -26,6 +26,7 @@
 ## Run 1:
 
 PS D:\my_personal\Repositories\open-ai\Python\assignment-app> python script.py
+
 Ask me a trip suggestion: Suggest me a trip
 Here are some suggestions for trips:
 
@@ -41,6 +42,7 @@ Ask me a trip suggestions:
 ## Run 2
 
 PS D:\my_personal\Repositories\open-ai\Python\assignment-app> python script.py
+
 Ask me a trip suggestion: Get a trip details for Dubai
 For a trip to Dubai, the estimated budget is between Dhs 8,000 and Dhs 12,000. Dubai is located in the United Arab Emirates and is known
 for its luxurious hotels, shopping malls, and iconic landmarks like the Burj Khalifa. The best time to visit Dubai is during the summer season.
@@ -55,6 +57,7 @@ Ask me a trip suggestion:
 ## Run 3
 
 PS D:\my_personal\Repositories\open-ai\Python\assignment-app> python script.py
+
 Ask me a trip suggestion: suggest me a trip for $6000
 Some suggested trips that can be planned within a budget of $6,000 are:
 
