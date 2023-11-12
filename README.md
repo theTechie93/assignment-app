@@ -14,7 +14,7 @@
 - Make sure the `constants.py` file has the openai key updated => `API_KEY = "sk-<OpenAI_API_Key>"` [Get Key here](https://platform.openai.com/api-key)
 - To run the script - Run: `python script.py`
 
-# Data to be trained to the model
+# Data used to train the model
 
 - Reference File: `data/data.json`
 - Within this file, you'll find response data tailored for customer queries.
