@@ -1,30 +1,5 @@
 [
   {
-    "country": "India",
-    "cities": ["Manali", "Shimla"],
-    "seasons": "Monsoon",
-    "budget": "between Rs 60,000  and Rs. 80,000"
-  },
-  {
-    "country": "France",
-    "cities": ["Paris"],
-    "seasons": "Winter",
-    "budget": "between $4,000 and $10,000"
-  },
-  {
-    "country": "USA",
-    "cities": ["New York"],
-    "seasons": "Winter",
-    "budget": "between $2,000 and $6,000"
-  },
-
-  {
-    "country": "USA",
-    "cities": ["Chicago"],
-    "seasons": "Summer",
-    "budget": "between $10,000 and $16,000"
-  },
-  {
     "country": "United Arab Emirates",
     "cities": ["Dubai"],
     "seasons": "Summer",
@@ -43,9 +18,51 @@
     "budget": "between Pt 40,000 and Pt 60,000"
   },
   {
-    "country": "Egypt",
-    "cities": ["Cairo"],
+    "country": "USA",
+    "cities": ["Kansas City"],
     "seasons": "Summer",
-    "budget": "between Pt 40,000 and Pt 60,000"
+    "budget": "between $6,000 and $ $8,000"
+  },
+  {
+    "country": "USA",
+    "cities": ["Dallas"],
+    "seasons": "Spring",
+    "budget": "between $2,000 and $ $6,000"
+  },
+  {
+    "country": "Saudi Arabia",
+    "cities": ["Jeddah"],
+    "seasons": "Monsoon",
+    "budget": "between SAR 16,000 and SAR 20,000"
+  },
+  {
+    "country": "Bahrain",
+    "cities": ["Manama"],
+    "seasons": "Monsoon",
+    "budget": "between BD 9,000 and BD 16,000"
+  },
+  {
+    "country": "India",
+    "cities": ["Manali", "Shimla"],
+    "seasons": "Monsoon",
+    "budget": "between Rs 60,000  and Rs. 80,000"
+  },
+  {
+    "country": "France",
+    "cities": ["Paris"],
+    "seasons": "Winter",
+    "budget": "between $4,000 and $10,000"
+  },
+  {
+    "country": "USA",
+    "cities": ["New York"],
+    "seasons": "Winter",
+    "budget": "between $2,000 and $6,000"
+  },
+  {
+    "country": "USA",
+    "cities": ["Chicago"],
+    "seasons": "Summer",
+    "budget": "between $10,000 and $16,000"
   }
 ]
