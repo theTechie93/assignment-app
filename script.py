@@ -33,9 +33,9 @@ chain = ConversationalRetrievalChain.from_llm(
 # Initial Script which will run when app starts
 chat_history = []
 while True:
-    # As user a query
+    # Get a query from the user
     if not query:
-        query = input("Ask me a trip suggestions: ")
+        query = input("Ask me a trip suggestion: ")
     if query in ['quit', 'q', 'exit']:
         sys.exit()
 
