@@ -10,7 +10,7 @@
 
 - Download [Python 3.10.5](https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe)
 - To clone the repository use `git clone https://github.com/theTechie93/assignment-app.git`
-- Install supporting packages: `pip install angchain openai chromadb tiktoken`
+- Install supporting packages: `pip install langchain openai chromadb tiktoken`
 - Make sure the `constants.py` file has the openai key updated => `API_KEY = "sk-<OpenAI_API_Key>"` [Get Key here](https://platform.openai.com/api-key)
 - To run the script - Run: `python script.py`
 
